@@ -1,6 +1,6 @@
 ## Analysis of the MTA
 
-Al-Sayegh Charitablefoundation want establish a charity market near one of the most crowded station in summer season .
+Al-Sayegh Charitable foundation want establish a charity market near one of the most crowded station in summer season .
 
 The goal of this project to find the most crowded stations in summer season, by analyzing the data of a pervious summer season before Covid-19 .So in this project we will chose the to data from 22-june-2019 to 28-september-2019 so can Al-Sayegh Charitablefoundation can establish their charity market.
 
@@ -18,4 +18,4 @@ The figure above has three plots with different colors, each plot represents a
 
 Different month we can notice that July is the most crowded month.
 
-The result suggests that 10th of july at ST-PENN STA station well be the best time to establish the charity market
+The result suggests that 10th of july at ST-PENN STA station well be the best date and a A perfect date to establish the charity market.
