@@ -96,4 +96,4 @@ The we will used tools provided as a module in pythons such as Pandas, Matplotli
 
 # After building different models Random Forest Regressor has the highest r^2 in both validation stage and testing stage removing unneeded columns has increased r^2 in Gradient Boosting Regressor but not in Random Forest Regressor.
 
-#
+# 
